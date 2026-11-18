@@ -12,6 +12,7 @@ const MODULOS = [
   { chave: 'familia', nome: 'Família' },
   { chave: 'fornecedor', nome: 'Fornecedor' },
   { chave: 'estabelecimento', nome: 'Estabelecimento' },
+  { chave: 'ncm', nome: 'NCM' },
   { chave: 'usuario', nome: 'Usuário' },
 ];
 
