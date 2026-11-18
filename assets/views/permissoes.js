@@ -10,6 +10,7 @@ const MODULOS = [
   { chave: 'categoria', nome: 'Categoria' },
   { chave: 'subcategoria', nome: 'Subcategoria' },
   { chave: 'familia', nome: 'Família' },
+  { chave: 'marca', nome: 'Marca' },
   { chave: 'fornecedor', nome: 'Fornecedor' },
   { chave: 'estabelecimento', nome: 'Estabelecimento' },
   { chave: 'ncm', nome: 'NCM' },
