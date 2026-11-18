@@ -4,11 +4,13 @@ import * as ui from '../ui.js';
 
 const MODULOS = [
   { chave: 'cotacao', nome: 'Cotação' },
+  { chave: 'pedido', nome: 'Pedido de Compra' },
   { chave: 'armazenados', nome: 'Armazenados e Não Expostos' },
   { chave: 'produtos', nome: 'Produtos' },
   { chave: 'categoria', nome: 'Categoria' },
   { chave: 'subcategoria', nome: 'Subcategoria' },
   { chave: 'familia', nome: 'Família' },
+  { chave: 'fornecedor', nome: 'Fornecedor' },
   { chave: 'usuario', nome: 'Usuário' },
 ];
 
