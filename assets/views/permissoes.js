@@ -11,6 +11,7 @@ const MODULOS = [
   { chave: 'subcategoria', nome: 'Subcategoria' },
   { chave: 'familia', nome: 'Família' },
   { chave: 'fornecedor', nome: 'Fornecedor' },
+  { chave: 'estabelecimento', nome: 'Estabelecimento' },
   { chave: 'usuario', nome: 'Usuário' },
 ];
 
