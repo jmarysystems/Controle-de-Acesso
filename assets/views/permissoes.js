@@ -15,6 +15,7 @@ const MODULOS = [
   { chave: 'estabelecimento', nome: 'Estabelecimento' },
   { chave: 'ncm', nome: 'NCM' },
   { chave: 'cest', nome: 'CEST' },
+  { chave: 'xml', nome: 'Baixar XML' },
   { chave: 'usuario', nome: 'Usuário' },
 ];
 
