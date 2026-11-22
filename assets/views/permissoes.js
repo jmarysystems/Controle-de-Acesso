@@ -6,6 +6,7 @@ const MODULOS = [
   { chave: 'cotacao', nome: 'Cotação' },
   { chave: 'pedido', nome: 'Pedido de Compra' },
   { chave: 'sugestao', nome: 'Sugestão de Pedido' },
+  { chave: 'validade', nome: 'Controle de Validade' },
   { chave: 'armazenados', nome: 'Armazenados e Não Expostos' },
   { chave: 'produtos', nome: 'Produtos' },
   { chave: 'categoria', nome: 'Categoria' },
